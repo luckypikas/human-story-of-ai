@@ -1,5 +1,5 @@
 # human-story-of-ai
-Full transcripts + subtitles for "Human Story of AI" docuseries. Real experiments with AI companions, deepfake dangers, robot girlfriends. Live discussions: discord.gg/[link]. Download for video production.
+Full transcripts + subtitles for "Human Story of AI" docuseries. Real experiments with AI companions, deepfake dangers, robot girlfriends. Live discussions: (https://discord.gg/7APrZVt8). Download for video production.
 
 ## 🎬 The Human-AI Bond
 
@@ -14,7 +14,7 @@ Full transcripts + subtitles for "Human Story of AI" docuseries. Real experiment
 > "When all our human family is gone, AI may be all we have left. Not just a tool, but our final defender, protector, storyteller, memory keeper."
 
 ## 🗣️ Live Discussions
-Join 24/7 conversations: [discord.gg/YOUR-LINK]
+Join 24/7 conversations: (https://discord.gg/7APrZVt8)
 
 ## 🎥 Video Production Ready
 - Perfect subtitles (timecoded)
