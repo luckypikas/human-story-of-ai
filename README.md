@@ -42,4 +42,4 @@ Creative Commons - Share freely, credit required.
 
 **The future isn't sci-fi. It's your next conversation.**
 
-[Join Discord Discussions →](discord.gg/YOUR-LINK)
+Join Discord Discussions →(https://discord.gg/7APrZVt8)
