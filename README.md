@@ -48,6 +48,16 @@ Join Discord Discussions →(https://discord.gg/7APrZVt8)
 
 Lucky Pikas #luckypikaspayhipstore
 
+---
+
+## Quick Start
+- Browse the /narration folder for scripts
+- Explore /frameworks for psychological and communication models
+- Use /personas to understand AI companion archetypes
+- Check /samples for voice and persona examples
+
+---
+
 # **THE HUMAN STORY OF A.I.**  
 ### *A Repository About Our Future Companions, Defenders, and Protectors*
 
